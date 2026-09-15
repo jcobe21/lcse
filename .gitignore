@@ -1,5 +1,6 @@
-.sim
-.zip
-.cache
-.hw
-/*.ip_userfiles
+
+*.sim/
+*.zip
+.cache/
+*.hw/
+*.ip_userfiles/
